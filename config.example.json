@@ -1,13 +1,13 @@
 [
   {
-    "name": "Database1",
-    "supabase_url": "https://your-project-id-1.supabase.co",
+    "name": "Invoice-Manager",
+    "supabase_url": "https://whbcmmmyckrillfwctzr.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   },
   {
-    "name": "Database2",
-    "supabase_url": "https://your-project-id-2.supabase.co",
+    "name": "Pilates-With-Anita",
+    "supabase_url": "https://zsjqflsjscwawlqkswyn.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_2",
     "table_name": "KeepAlive"
   }
