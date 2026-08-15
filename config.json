@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Invoice-Manager",
+    "supabase_url": "https://whbcmmmyckrillfwctzr.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Pilates-With-Anita",
+    "supabase_url": "https://zsjqflsjscwawlqkswyn.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "KeepAlive"
+  }
+]
